@@ -1,11 +1,6 @@
-Here is the **complete solution version** of the Excel task using **Home, Insert, and Page Layout tabs** 👇
-(You can follow these steps in Excel to match the correct output)
+## SOLUTION – Student Attendance & Summary Sheet
 
----
-
-## ✅ SOLUTION – Student Attendance & Summary Sheet
-
-### 🔹 Part 1 – Main Table (Home Tab)
+### Part 1 – Main Table (Home Tab)
 
 **Step 1: Enter headings in Row 1**
 
@@ -45,7 +40,7 @@ Format column **F** as **Percentage (%)** from **Home → Number → %**
 
 ---
 
-### 🔹 Formatting using Home Tab
+### Formatting using Home Tab
 
 1. Select **A1:F1**
 
@@ -65,7 +60,7 @@ Format column **F** as **Percentage (%)** from **Home → Number → %**
 
 ---
 
-### 🔹 Part 2 – Chart (Insert Tab)
+### Part 2 – Chart (Insert Tab)
 
 **Step 4: Select data for chart**
 Select only:
@@ -95,7 +90,7 @@ Move the chart below the table.
 
 ---
 
-### 🔹 Part 3 – Page Setup (Page Layout Tab)
+### Part 3 – Page Setup (Page Layout Tab)
 
 **Step 7: Apply page settings**
 
@@ -128,7 +123,7 @@ Prepared by: Navjot Kaur
 
 ---
 
-### 🔹 Bonus – Conditional Formatting (Optional)
+### Bonus – Conditional Formatting (Optional)
 
 1. Select **F2:F9**
 2. Home → Conditional Formatting → Less than
@@ -136,10 +131,3 @@ Prepared by: Navjot Kaur
 4. Select **Red Fill**
 
 Students below 75% will be marked in **Red**.
-
----
-
-If you want next, I can:
-✅ Convert this into an **Excel file**
-✅ Convert into a **PDF worksheet**
-✅ Give **one more advanced Excel task (with solution)**
