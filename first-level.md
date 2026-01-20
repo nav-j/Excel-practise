@@ -1,16 +1,12 @@
-Here is a **very simple Excel task** for quick practice 👇
+##  Simple Excel Task – Basic Student Marks Sheet
 
----
-
-## 📘 Simple Excel Task – Basic Student Marks Sheet
-
-### 🎯 Objective
+###  Objective
 
 Create a basic spreadsheet to record and calculate student marks.
 
 ---
 
-### 📝 Task Instructions
+###  Task Instructions
 
 1. Create a table with the following columns:
 
@@ -25,24 +21,24 @@ Create a basic spreadsheet to record and calculate student marks.
 
 3. Perform the following:
 
-#### 🔹 Formatting (Home Tab)
+####  Formatting (Home Tab)
 
 * Make the header row bold.
 * Center-align all marks.
 * Add borders to the table.
 
-#### 🔹 Calculations (Formulas Tab)
+####  Calculations (Formulas Tab)
 
 * Calculate:
 
   * **Total Marks** for each student.
   * **Average Marks** for each student.
 
-#### 🔹 Insert (Insert Tab)
+####  Insert (Insert Tab)
 
 * Add a simple **Column Chart** showing Total Marks of students.
 
-#### 🔹 Page Layout (Page Layout Tab)
+####  Page Layout (Page Layout Tab)
 
 * Set orientation to **Portrait**.
 * Set margins to **Normal**.
