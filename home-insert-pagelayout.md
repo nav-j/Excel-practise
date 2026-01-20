@@ -1,17 +1,12 @@
-Here is the **SOLUTION VERSION** of the task:
-**Excel Practice Task – Product Price List** using only **Home, Insert, and Page Layout tabs**.
+# Excel Practice Task – Product Price List (Solution)
 
----
-
-# ✅ Excel Practice Task – Product Price List (Solution)
-
-## 📊 Scenario: Supermarket Product List
+## Scenario: Supermarket Product List
 
 You are creating a printable price list for a small supermarket.
 
 ---
 
-## 🔵 HOME Tab – Data Entry & Formatting
+## HOME Tab – Data Entry & Formatting
 
 ### 1. Enter the Data
 
@@ -61,7 +56,7 @@ Highlight "Out of Stock" in red:
 
 ---
 
-## 🟢 INSERT Tab – Visual Enhancements
+## INSERT Tab – Visual Enhancements
 
 ### 4. Convert to Table
 
@@ -102,7 +97,7 @@ Highlight "Out of Stock" in red:
 
 ---
 
-## 🟡 PAGE LAYOUT Tab – Print Setup
+## PAGE LAYOUT Tab – Print Setup
 
 ### 8. Page Setup
 
@@ -134,7 +129,7 @@ Highlight "Out of Stock" in red:
 
 ---
 
-## 🎯 Final Result Should Include
+## Final Result Should Include
 
 ✅ Neatly formatted table
 ✅ Highlighted out-of-stock items
