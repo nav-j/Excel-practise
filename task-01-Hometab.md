@@ -6,7 +6,7 @@ Create a professional sales report and apply advanced formatting, calculations, 
 
 ---
 
-## 📊 **Step 1: Enter Data**
+##  **Step 1: Enter Data**
 
 | Salesperson | Region | Jan   | Feb   | Mar   | Total | Average |
 | ----------- | ------ | ----- | ----- | ----- | ----- | ------- |
@@ -18,7 +18,7 @@ Create a professional sales report and apply advanced formatting, calculations, 
 
 ---
 
-## 🔹 **Step 2: Calculations (Editing Group)**
+## **Step 2: Calculations (Editing Group)**
 
 * Use **AutoSum** to calculate:
 
@@ -27,9 +27,9 @@ Create a professional sales report and apply advanced formatting, calculations, 
 
 ---
 
-## 🔹 **Step 3: Advanced Formatting (Home Tab)**
+## **Step 3: Advanced Formatting (Home Tab)**
 
-### 🅰️ **Font & Styling**
+###  **Font & Styling**
 
 * Make headings **Bold + Increase Size (16)**
 * Apply different font style
@@ -37,7 +37,7 @@ Create a professional sales report and apply advanced formatting, calculations, 
 
 ---
 
-### 🎨 **Fill, Borders & Styles**
+###  **Fill, Borders & Styles**
 
 * Apply **table borders (All Borders + Thick Outside Border)**
 * Use **Cell Styles** (e.g., Heading 1, Total style)
@@ -45,7 +45,7 @@ Create a professional sales report and apply advanced formatting, calculations, 
 
 ---
 
-### 📐 **Alignment**
+###  **Alignment**
 
 * Center align headings
 * Right align numbers
@@ -54,14 +54,14 @@ Create a professional sales report and apply advanced formatting, calculations, 
 
 ---
 
-### 🔢 **Number Formatting**
+###  **Number Formatting**
 
 * Format values as **Currency (₹)**
 * Remove decimal places
 
 ---
 
-## 🔥 **Step 4: Conditional Formatting (Important)**
+## **Step 4: Conditional Formatting (Important)**
 
 Apply the following:
 
@@ -72,7 +72,7 @@ Apply the following:
 
 ---
 
-## 🔍 **Step 5: Advanced Editing Tools**
+##  **Step 5: Advanced Editing Tools**
 
 * Use **Sort & Filter**:
 
@@ -83,13 +83,13 @@ Apply the following:
 
 ---
 
-## 📌 **Step 6: Format Painter**
+##  **Step 6: Format Painter**
 
 * Copy formatting from one row and apply to another using **Format Painter**
 
 ---
 
-## ✅ **Expected Output:**
+## **Expected Output:**
 
 * Professional-looking report
 * Proper currency formatting
