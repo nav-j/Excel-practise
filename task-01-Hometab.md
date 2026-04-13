@@ -98,7 +98,7 @@ Apply the following:
 
 ---
 
-## ⭐ **Bonus Challenge:**
+##  **Bonus Challenge:**
 
 * Highlight entire row of top performer using Conditional Formatting
 * Add a **“Performance” column** and mark:
@@ -111,7 +111,7 @@ Apply the following:
 
 ---
 
-## 📊 **Final Data with Calculations**
+##  **Final Data with Calculations**
 
 | Salesperson | Region | Jan   | Feb   | Mar   | Total | Average |
 | ----------- | ------ | ----- | ----- | ----- | ----- | ------- |
@@ -123,9 +123,9 @@ Apply the following:
 
 ---
 
-## 🔹 **Step 1: Formulas Used**
+##  **Step 1: Formulas Used**
 
-### ➕ **Total Column (F2):**
+###  **Total Column (F2):**
 
 ```
 =SUM(C2:E2)
@@ -135,7 +135,7 @@ Drag down for all rows.
 
 ---
 
-### 📊 **Average Column (G2):**
+###  **Average Column (G2):**
 
 ```
 =AVERAGE(C2:E2)
@@ -145,7 +145,7 @@ Drag down.
 
 ---
 
-## 🔹 **Step 2: Title (Home Tab → Alignment)**
+##  **Step 2: Title (Home Tab → Alignment)**
 
 * Select A1:G1
 * Click **Merge & Center**
@@ -153,9 +153,9 @@ Drag down.
 
 ---
 
-## 🔹 **Step 3: Formatting (Home Tab)**
+## **Step 3: Formatting (Home Tab)**
 
-### 🅰️ **Font**
+###  **Font**
 
 * Select heading row → **Bold**
 * Font Size → **16**
@@ -163,7 +163,7 @@ Drag down.
 
 ---
 
-### 🎨 **Fill & Borders**
+###  **Fill & Borders**
 
 * Header Row → Apply **Fill Color**
 * Select full table → **All Borders**
@@ -171,14 +171,14 @@ Drag down.
 
 ---
 
-### 📐 **Alignment**
+###  **Alignment**
 
 * Headings → **Center Align**
 * Numbers → **Right Align**
 
 ---
 
-### 🔢 **Currency Format**
+###  **Currency Format**
 
 * Select sales data (C2:G6)
 * Click **₹ Currency Format**
@@ -186,29 +186,29 @@ Drag down.
 
 ---
 
-## 🔥 **Step 4: Conditional Formatting**
+##  **Step 4: Conditional Formatting**
 
-### ✔️ **High Sales (>20000)**
+###  **High Sales (>20000)**
 
 * Select data (C2:E6)
 * Home → Conditional Formatting → Highlight Cell Rules → Greater Than → 20000 → Green
 
 ---
 
-### ❌ **Low Sales (<10000)**
+###  **Low Sales (<10000)**
 
 * Conditional Formatting → Less Than → 10000 → Red
 
 ---
 
-### 📊 **Data Bars (Total Column)**
+###  **Data Bars (Total Column)**
 
 * Select F2:F6
 * Conditional Formatting → Data Bars → Choose style
 
 ---
 
-### 🏆 **Top Performer**
+###  **Top Performer**
 
 * Select Total column
 * Conditional Formatting → Top/Bottom Rules → Top 1 → Highlight
@@ -217,14 +217,14 @@ Drag down.
 
 ---
 
-## 🔍 **Step 5: Sorting**
+##  **Step 5: Sorting**
 
 * Select table
 * Home → Sort & Filter → Sort Largest to Smallest (by Total)
 
 ---
 
-## 🔄 **Step 6: Find & Replace**
+##  **Step 6: Find & Replace**
 
 * Press **Ctrl + H**
 * Find: `North`
@@ -232,7 +232,7 @@ Drag down.
 
 ---
 
-## 🎨 **Step 7: Format Painter**
+##  **Step 7: Format Painter**
 
 * Select a formatted row
 * Click **Format Painter**
@@ -240,9 +240,9 @@ Drag down.
 
 ---
 
-## ⭐ **Bonus Solution: Performance Column**
+##  **Bonus Solution: Performance Column**
 
-### ➕ Add Column H → “Performance”
+###  Add Column H → “Performance”
 
 ### Formula (H2):
 
@@ -262,7 +262,7 @@ Drag down.
 
 ---
 
-## 🎉 **Final Result Includes:**
+##  **Final Result Includes:**
 
 ✔ Calculations (SUM, AVERAGE)
 ✔ Professional formatting
