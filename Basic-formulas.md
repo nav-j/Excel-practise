@@ -2,9 +2,9 @@ Alright—let’s make this **more advanced and tricky**, so students really hav
 
 ---
 
-# 📊 **Advanced Excel Task (Hard Level)**
+#  **Advanced Excel Task (Hard Level)**
 
-## 🧾 **Data Setup**
+##  **Data Setup**
 
 Enter the following data exactly as shown:
 
@@ -21,9 +21,9 @@ Enter the following data exactly as shown:
 
 ---
 
-## ✅ **Tasks to Perform**
+##  **Tasks to Perform**
 
-### 🔢 1. MAX & MIN (Advanced Condition Thinking)
+###  1. MAX & MIN (Advanced Condition Thinking)
 
 * Find the **maximum sales value** (ignore blanks)
 * Find the **minimum sales value** (including negative values)
@@ -35,7 +35,7 @@ Enter the following data exactly as shown:
 
 ---
 
-### 🔡 2. LENGTH (LEN Function with Spaces Trick)
+###  2. LENGTH (LEN Function with Spaces Trick)
 
 Find length of:
 
@@ -51,7 +51,7 @@ Find length of:
 
 ---
 
-### 🔢 3. COUNT Functions (Tricky Case)
+###  3. COUNT Functions (Tricky Case)
 
 Apply on **column A (Sales)**:
 
@@ -67,7 +67,7 @@ Apply on **column A (Sales)**:
 
 ---
 
-### ✂️ 4. TRIM (Real-Life Messy Data)
+###  4. TRIM (Real-Life Messy Data)
 
 Apply TRIM to clean:
 
@@ -81,7 +81,7 @@ Apply TRIM to clean:
 
 ---
 
-### 🔗 5. CONCATENATE (With Logic)
+###  5. CONCATENATE (With Logic)
 
 Create a full sentence:
 
@@ -99,7 +99,7 @@ Example Output:
 
 ---
 
-### 📅 6. CURRENT DATE & TIME (Formatting Challenge)
+###  6. CURRENT DATE & TIME (Formatting Challenge)
 
 * Show current **date only**
 * Show current **date & time**
@@ -125,7 +125,7 @@ Example Output:
 
 ---
 
-## 🔥 **Bonus Challenge (Very Hard)**
+##  **Bonus Challenge (Very Hard)**
 
 👉 Create a formula that:
 
@@ -140,11 +140,3 @@ Example Output:
 ```
 
 ---
-
-If you want next level, I can create:
-
-* 💯 **Exam-style questions**
-* 📄 **Printable worksheet**
-* 🎯 **MCQs + practical test**
-
-Just tell me 👍
