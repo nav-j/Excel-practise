@@ -1,10 +1,10 @@
-# 📊 Monthly Budget Tracker in Excel
+#  Monthly Budget Tracker in Excel
 
 Follow this step-by-step guide to create a simple and functional **Monthly Budget Tracker** using Microsoft Excel.
 
 ---
 
-## ✅ Step 1: Set Up the Sheet
+## Step 1: Set Up the Sheet
 
 1. Open Excel and create a new blank workbook.
 2. In cell `A1`, type: **Monthly Budget Tracker**
@@ -24,7 +24,7 @@ Follow this step-by-step guide to create a simple and functional **Monthly Budge
 
 ---
 
-## ✅ Step 2: Enter Sample Data
+##  Step 2: Enter Sample Data
 
 Use the following sample data:
 
@@ -42,7 +42,7 @@ Use the following sample data:
 
 ---
 
-## ✅ Step 3: Insert a Table
+##  Step 3: Insert a Table
 
 1. Select your data and insert a table.
 2. Ensure **"My table has headers"** is checked.
@@ -50,7 +50,7 @@ Use the following sample data:
 
 ---
 
-## ✅ Step 4: Add a Pie Chart
+##  Step 4: Add a Pie Chart
 
 1. Insert a **2D Pie Chart** using the **Category** and **Amount** columns.
 2. Resize and place the chart beside your table.
@@ -58,7 +58,7 @@ Use the following sample data:
 
 ---
 
-## ✅ Step 5: Page Layout Settings
+##  Step 5: Page Layout Settings
 
 1. Go to the **Page Layout** tab and:
    - Set **Orientation** to **Landscape**
@@ -68,7 +68,7 @@ Use the following sample data:
 
 ---
 
-## ✅ Step 6: Add Formulas
+##  Step 6: Add Formulas
 
 1. Calculate the average expense:
    - Use `=AVERAGE(D3:D6)` in an empty cell, e.g., `D8`
@@ -77,7 +77,7 @@ Use the following sample data:
 
 ---
 
-## ✅ Step 7: Use Data Validation
+##  Step 7: Use Data Validation
 
 1. In the **Category** column:
    - Apply **Data Validation** as a drop-down list
@@ -85,7 +85,7 @@ Use the following sample data:
 
 ---
 
-## ✅ Step 8: Protect and Review
+##  Step 8: Protect and Review
 
 1. Protect the sheet but **allow editing** only in necessary cells.
 2. Add a **comment** to cell `D3`:  
@@ -94,12 +94,8 @@ Use the following sample data:
 
 ---
 
-## ✅ Step 9: Final Touches
+##  Step 9: Final Touches
 
 1. **Freeze Top Row** to keep headers visible while scrolling.
 2. Set **Zoom** level to **120%**
 3. Uncheck **Gridlines** for a cleaner look.
-
----
-
-📁 You now have a clean, organized, and functional **Monthly Budget Tracker** in Excel. Great for keeping track of your personal finances!
