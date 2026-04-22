@@ -5,15 +5,15 @@ This project guides you through creating a professional-level Excel sheet for tr
 
 ---
 
-## 📊 Objective
+##  Objective
 
 Build a **Student Performance Sheet** that calculates Total, Average, and Percentage scores, evaluates performance with rating labels, and visually represents key data using formatting and charting features.
 
 ---
 
-## 🧩 Sheet Layout
+##  Sheet Layout
 
-### ➤ Step 1: Setup Headers
+###  Step 1: Setup Headers
 
 In Row 1, create the following headers:
 
@@ -29,7 +29,7 @@ In Row 1, create the following headers:
 | H1     | Percentage           |
 | I1     | Performance Rating   |
 
-### ➤ Step 2: Enter Sample Data
+###  Step 2: Enter Sample Data
 
 Starting from Row 2, enter student data. For example:
 
@@ -39,7 +39,7 @@ Starting from Row 2, enter student data. For example:
 
 ---
 
-## 🧮 Step 3: Apply Formulas
+##  Step 3: Apply Formulas
 
 Add formulas for each student:
 
@@ -57,7 +57,7 @@ Add formulas for each student:
 
 ---
 
-## 🎨 Step 4: Conditional Formatting
+##  Step 4: Conditional Formatting
 
 ### ➤ Highlight Performance Rating
 
@@ -70,17 +70,17 @@ Apply conditional formatting to the **Performance Rating** column (Column I):
 | Average           | Orange Fill + Black Text |
 | Needs Improvement | Red Fill + White Text    |
 
-### ➤ Highlight Top Performers
+###  Highlight Top Performers
 
 *  highlight the top three students.
 
-### ➤ Add Data Bars
+###  Add Data Bars
 
 * Apply **Data Bars** (Gradient Fill) to the **Percentage** column for visual comparison.
 
 ---
 
-## 🛠️ Step 5: Format the Data
+##  Step 5: Format the Data
 
 1. **Numbers:**
 
@@ -101,7 +101,7 @@ Apply conditional formatting to the **Performance Rating** column (Column I):
 
 ---
 
-## ✅ Final Notes
+##  Final Notes
 
 This task integrates core Excel skills:
 
