@@ -1,12 +1,12 @@
-# ✅ Excel Task: Student Eligibility Checker.
+#  Excel Task: Student Eligibility Checker.
 
-## 🔧 Task Description
+##  Task Description
 
 This Excel task helps you understand how to use logical functions like `AND` and `OR` to check multiple conditions and return `TRUE` or `FALSE` based on student eligibility criteria.
 
 ---
 
-## 📁 Given Data
+##  Given Data
 
 | Student Name | Marks (%) | Attendance (%) | Eligible (AND) | Eligible (OR) |
 |--------------|-----------|----------------|----------------|---------------|
@@ -17,7 +17,7 @@ This Excel task helps you understand how to use logical functions like `AND` and
 
 ---
 
-## ✅ Solution Steps
+##  Solution Steps
 
 1. In **column D**, use the `AND` function to check if both conditions are met:
    - Marks ≥ 60
@@ -41,7 +41,7 @@ This Excel task helps you understand how to use logical functions like `AND` and
 
 ---
 
-## ✅ Final Output Example
+##  Final Output Example
 
 | Student Name | Marks (%) | Attendance (%) | Eligible (AND) | Eligible (OR) |
 | ------------ | --------- | -------------- | -------------- | ------------- |
@@ -52,7 +52,7 @@ This Excel task helps you understand how to use logical functions like `AND` and
 
 ---
 
-## 🧠 Learning Recap
+##  Learning Recap
 
 * ✅ `AND` returns `TRUE` only when **all** conditions are met.
 * ✅ `OR` returns `TRUE` if **any one** condition is met.
