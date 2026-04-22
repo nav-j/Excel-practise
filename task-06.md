@@ -1,13 +1,13 @@
 
-# ➕ Excel Task: Product Cost Calculator (With Solution)
+#  Excel Task: Product Cost Calculator (With Solution)
 
-## 🔧 Task Description
+##  Task Description
 
 This Excel task helps you practice using **arithmetic operators** (`+`, `-`, `*`, `/`) to calculate the cost, discount, and final price of products based on price, quantity, and discount percentage.
 
 ---
 
-## 📁 Given Data
+##  Given Data
 
 | Product Name | Unit Price | Quantity | Discount (%) | Total Cost | Discount Amount | Final Price |
 |--------------|------------|----------|--------------|------------|------------------|-------------|
@@ -18,7 +18,7 @@ This Excel task helps you practice using **arithmetic operators** (`+`, `-`, `*`
 
 ---
 
-## ✅ Solution Steps
+## Solution Steps
 
 1. **Total Cost** = `Unit Price × Quantity`  
    Formula in **E2**:  
@@ -38,11 +38,11 @@ This Excel task helps you practice using **arithmetic operators** (`+`, `-`, `*`
    =E2-F2
    ```
 
-📌 **Drag the formulas** from row 2 down to fill rows 3 to 5.
+ **Drag the formulas** from row 2 down to fill rows 3 to 5.
 
 ---
 
-## ✅ Final Output Example
+##  Final Output Example
 
 | Product Name | Unit Price | Quantity | Discount (%) | Total Cost | Discount Amount | Final Price |
 | ------------ | ---------- | -------- | ------------ | ---------- | --------------- | ----------- |
@@ -53,7 +53,7 @@ This Excel task helps you practice using **arithmetic operators** (`+`, `-`, `*`
 
 ---
 
-## 🧠 Learning Recap
+##  Learning Recap
 
 * ✅ Used `*` to multiply price and quantity.
 * ✅ Used `/` and `*` to calculate percentage discounts.
@@ -63,7 +63,3 @@ This Excel task helps you practice using **arithmetic operators** (`+`, `-`, `*`
 ---
 
 > 🔍 Try changing the quantity or discount values and see how final prices update automatically!
-
-```
-
----
