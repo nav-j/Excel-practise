@@ -1,12 +1,12 @@
 #  **Task: Employee Data Creation Using Range Filling**
 
-### 📝 **Objective:**
+###  **Objective:**
 
 Learn how to quickly fill data using **AutoFill / Fill Handle** in Excel.
 
 ---
 
-## 📊 **Step 1: Create Table Structure**
+## **Step 1: Create Table Structure**
 
 Create headings:
 
@@ -15,9 +15,9 @@ Create headings:
 
 ---
 
-## 🔹 **Step 2: Use Range Filling (AutoFill)**
+##  **Step 2: Use Range Filling (AutoFill)**
 
-### 🆔 **Emp ID (Series Fill)**
+###  **Emp ID (Series Fill)**
 
 * In A2 → type: **EMP001**
 
@@ -25,7 +25,7 @@ Create headings:
 
 ---
 
-### 👤 **Names (Custom Fill)**
+###  **Names (Custom Fill)**
 
 * Enter first 2 names manually:
 
@@ -34,7 +34,7 @@ Create headings:
 
 ---
 
-### 📅 **Month (AutoFill Series)**
+###  **Month (AutoFill Series)**
 
 * In C2 → type: **January**
 
@@ -42,15 +42,15 @@ Create headings:
 
 ---
 
-### 💰 **Salary (Number Series)**
+###  **Salary (Number Series)**
 
 * In D2 → type: **10000**
 * In D3 → type: **12000**
 ---
 
-## 🔹 **Step 3: Advanced Range Filling**
+##  **Step 3: Advanced Range Filling**
 
-### 📆 **Days (Optional Column)**
+###  **Days (Optional Column)**
 
 * Type **Monday**
 * Drag → AutoFill days of week
@@ -59,7 +59,7 @@ Create headings:
 
 ---
 
-### ⚡ **Flash Fill (Smart Fill)**
+###  **Flash Fill (Smart Fill)**
 
 * If you have full names:
 
@@ -68,7 +68,7 @@ Create headings:
 
 ---
 
-## ✅ **Expected Output:**
+##  **Expected Output:**
 
 | Emp ID | Name     | Month    | Salary |
 | ------ | -------- | -------- | ------ |
@@ -80,7 +80,7 @@ Create headings:
 
 ---
 
-## ⭐ **Bonus Task:**
+##  **Bonus Task:**
 
 * Use **Fill Handle with right-click** → choose:
 
@@ -90,7 +90,7 @@ Create headings:
 
 ---
 
-## 💡 **Learning Outcome:**
+##  **Learning Outcome:**
 
 ✔ AutoFill (numbers, text, dates)
 ✔ Series creation
