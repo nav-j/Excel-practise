@@ -1,7 +1,7 @@
 
-# 📈 Excel Task: Currency Conversion Table (With Solution)
+# Excel Task: Currency Conversion Table (With Solution)
 
-## 🔧 Task Description
+## Task Description
 
 This Excel task helps you understand how to use **absolute** and **relative** cell references by building a simple currency conversion table.
 
@@ -9,7 +9,7 @@ You are given a list of product prices in **Indian Rupees (INR)**. Your goal is 
 
 ---
 
-## 📁 Given Data
+##  Given Data
 
 | Product Name | Price (INR) | USD Rate | Price (USD) |
 |--------------|-------------|----------|-------------|
@@ -22,7 +22,7 @@ You are given a list of product prices in **Indian Rupees (INR)**. Your goal is 
 
 ---
 
-## ✅ Solution Steps
+##  Solution Steps
 
 1. **Enter** the exchange rate `0.012` in **cell C1**.
 2. In **cell D2**, write the formula:
@@ -36,7 +36,7 @@ You are given a list of product prices in **Indian Rupees (INR)**. Your goal is 
 
 ---
 
-## ✅ Final Output Example
+##  Final Output Example
 
 | Product Name | Price (INR) | USD Rate | Price (USD) |
 | ------------ | ----------- | -------- | ----------- |
@@ -47,7 +47,7 @@ You are given a list of product prices in **Indian Rupees (INR)**. Your goal is 
 
 ---
 
-## 🧠 Learning Recap
+##  Learning Recap
 
 * ✅ **Relative Reference** (e.g., `B2`) adjusts automatically when copied.
 * ✅ **Absolute Reference** (e.g., `$C$1`) remains fixed regardless of where the formula is applied.
