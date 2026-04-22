@@ -1,4 +1,4 @@
-# 🚦 Excel Task: Employee Bonus Eligibility Checker (With Solution)
+#  Excel Task: Employee Bonus Eligibility Checker (With Solution)
 
 ## 🔧 Task Description
 
@@ -6,7 +6,7 @@ This task helps you practice using the `AND` and `OR` logical functions in Excel
 
 ---
 
-## 📁 Given Data
+##  Given Data
 
 | Employee Name | Performance Rating (out of 5) | Years of Experience | Eligible (AND) | Eligible (OR) |
 |---------------|-------------------------------|----------------------|----------------|---------------|
@@ -17,7 +17,7 @@ This task helps you practice using the `AND` and `OR` logical functions in Excel
 
 ---
 
-## 📌 Eligibility Criteria
+##  Eligibility Criteria
 
 1. **Eligible (AND)**:
    - Performance Rating ≥ 4
@@ -59,7 +59,7 @@ This task helps you practice using the `AND` and `OR` logical functions in Excel
 
 ---
 
-## 🧠 Learning Recap
+##  Learning Recap
 
 * ✅ `AND` checks if **all** given conditions are met.
 * ✅ `OR` checks if **any** given condition is met.
