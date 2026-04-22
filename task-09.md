@@ -1,13 +1,13 @@
 
-# 📘 Excel Task: Student Performance Sheet
+#  Excel Task: Student Performance Sheet
 
-## 📌 Task Objective
+##  Task Objective
 
 Create a student performance tracking sheet that calculates total marks, average, and pass/fail status using formulas and formatting tools in Excel.
 
 ---
 
-## 🧾 Columns Setup
+##  Columns Setup
 
 In row 1, enter the following headers:
 
@@ -17,7 +17,7 @@ In row 1, enter the following headers:
 
 ---
 
-## ✍️ Sample Data
+##  Sample Data
 
 Enter this sample data starting from row 2:
 
@@ -29,7 +29,7 @@ Enter this sample data starting from row 2:
 
 ---
 
-## ➕ Step 1: Calculate Total Marks
+##  Step 1: Calculate Total Marks
 
 In **column F (Total)**, calculate the total marks for each student.
 
@@ -37,7 +37,7 @@ In **column F (Total)**, calculate the total marks for each student.
 
 ---
 
-## ➗ Step 2: Calculate Average Marks
+##  Step 2: Calculate Average Marks
 
 In **column G (Average)**, calculate the average of the marks.
 
@@ -45,14 +45,14 @@ In **column G (Average)**, calculate the average of the marks.
 
 ---
 
-## ✔️ Step 3: Determine Status (Pass/Fail)
+##  Step 3: Determine Status (Pass/Fail)
 
 In **column H (Status)**, determine whether a student has passed (average ≥ 60) or failed.
 
 
 ---
 
-## 🖌️ Step 4: Format the Sheet
+##  Step 4: Format the Sheet
 
 1. **Bold Headers**:  
 
@@ -70,7 +70,7 @@ In **column H (Status)**, determine whether a student has passed (average ≥ 60
 
 ---
 
-## ✅ Final Output
+##  Final Output
 
 | Student Name | Subject 1 | Subject 2 | Subject 3 | Subject 4 | Total | Average | Status |
 |--------------|-----------|-----------|-----------|-----------|-------|---------|--------|
@@ -80,6 +80,6 @@ In **column H (Status)**, determine whether a student has passed (average ≥ 60
 
 ---
 
-## 💾 Step 5: Save Your Work
+##  Step 5: Save Your Work
 
 After completing all calculations and formatting steps, **save your workbook** to preserve your work.
