@@ -29,8 +29,17 @@ In the **Bonus Eligible** column use:
 
 Then drag the formula down.
 
----
+## Sample Output 
 
+| Employee Name | Sales Amount | Attendance % | Bonus Eligible |
+| ------------- | ------------ | ------------ | -------------- |
+| Aman          | 85000        | 92           | TRUE           |
+| Priya         | 72000        | 88           | FALSE          |
+| Rohit         | 95000        | 96           | TRUE           |
+| Simran        | 60000        | 91           | FALSE          |
+| Karan         | 78000        | 85           | FALSE          |
+
+---
 # Task 2: Student Pass Status (OR Function)
 
 Create the following table:
@@ -61,6 +70,17 @@ In the **Pass Status** column use:
 
 Then drag the formula down.
 
+## Sample Output
+
+| Student Name | Theory Marks | Practical Marks | Pass Status |
+| ------------ | ------------ | --------------- | ----------- |
+| Neha         | 28           | 45              | TRUE        |
+| Arjun        | 35           | 22              | TRUE        |
+| Mehak        | 18           | 40              | TRUE        |
+| Raj          | 30           | 30              | TRUE        |
+| Tina         | 25           | 20              | FALSE       |
+
+
 ---
 
 # Task 3: Advanced Task Using AND + OR Together
@@ -90,6 +110,15 @@ Employee is eligible for promotion if:
 ```excel
 =AND(B2="IT",C2>=5,D2>80)
 ```
+## Sample Output
+
+| Employee | Department | Experience (Years) | Performance Score | Promotion Eligible |
+| -------- | ---------- | ------------------ | ----------------- | ------------------ |
+| Ravi     | IT         | 6                  | 88                | TRUE               |
+| Sonia    | HR         | 3                  | 91                | FALSE              |
+| Vikas    | IT         | 7                  | 75                | FALSE              |
+| Pooja    | Sales      | 5                  | 95                | FALSE              |
+| Manpreet | IT         | 2                  | 85                | FALSE              |
 
 ---
 
@@ -118,3 +147,12 @@ Discount will be given if:
 ```excel
 =OR(AND(B2>10000,C2="Yes"),D2="Yes")
 ```
+## Sample Output
+
+| Customer | Purchase Amount | Membership | Coupon Applied | Discount Given |
+| -------- | --------------- | ---------- | -------------- | -------------- |
+| Aditi    | 12000           | Yes        | No             | TRUE           |
+| Mohit    | 7000            | No         | Yes            | TRUE           |
+| Riya     | 15000           | Yes        | Yes            | TRUE           |
+| Kabir    | 5000            | No         | No             | FALSE          |
+| Jaspreet | 11000           | No         | Yes            | TRUE           |
