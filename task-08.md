@@ -1,6 +1,6 @@
 #  Excel Task: Employee Bonus Eligibility Checker (With Solution)
 
-## 🔧 Task Description
+##  Task Description
 
 This task helps you practice using the `AND` and `OR` logical functions in Excel to check bonus eligibility of employees based on their performance and experience.
 
@@ -36,7 +36,7 @@ This task helps you practice using the `AND` and `OR` logical functions in Excel
 1. In **cell D2**, enter the formula using `AND`:
    ```excel
    =AND(B2>=4, C2>=5)
-````
+   ```
 
 2. In **cell E2**, enter the formula using `OR`:
 
