@@ -5,7 +5,7 @@ This guide covers essential Excel formulas and functions along with practical ex
 
 ---
 
-## 📌 SUM
+##  SUM
 Adds up values.
 
 **Syntax:**
@@ -26,7 +26,7 @@ SUM(number1, [number2], …)
 
 ---
 
-## 📌 AVERAGE
+##  AVERAGE
 
 Finds the arithmetic mean of a range of numbers.
 
@@ -45,7 +45,7 @@ AVERAGE(number1, [number2], …)
 
 ---
 
-## 📌 MAX & MIN
+##  MAX & MIN
 
 Find the largest and smallest values.
 
@@ -58,7 +58,7 @@ Find the largest and smallest values.
 
 ---
 
-## 📌 COUNT & COUNTA
+##  COUNT & COUNTA
 
 Count numeric or non-empty cells.
 
@@ -78,7 +78,7 @@ COUNTA(value1, [value2], …)
 
 ---
 
-## 📌 IF
+##  IF
 
 Returns values based on a condition.
 
@@ -96,7 +96,7 @@ IF(logical_test, [value_if_true], [value_if_false])
 
 ---
 
-## 📌 TRIM
+##  TRIM
 
 Removes extra spaces from text.
 
@@ -114,7 +114,7 @@ TRIM(text)
 
 ---
 
-## 📌 LEN
+##  LEN
 
 Counts the number of characters, including spaces.
 
@@ -132,7 +132,7 @@ LEN(text)
 
 ---
 
-## 📌 AND & OR
+##  AND & OR
 
 Evaluate multiple conditions.
 
@@ -148,7 +148,7 @@ Evaluate multiple conditions.
 
 ---
 
-## 📌 CONCATENATE
+##  CONCATENATE
 
 Joins multiple text strings into one.
 
@@ -167,7 +167,7 @@ CONCATENATE(text1, [text2], …)
 
 ---
 
-## 📌 TODAY & NOW
+##  TODAY & NOW
 
 Insert current date or date and time.
 
@@ -179,7 +179,3 @@ Insert current date or date and time.
 ```
 
 ---
-
-> This cheat sheet is designed for learners and professionals to reference basic Excel functionality easily and efficiently.
-
-```
