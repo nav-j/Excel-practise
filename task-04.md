@@ -33,12 +33,14 @@ You are given a table of sales data for a team of sales representatives. Your go
 
 3. **Copy or drag the formula** from **D2 to D5** to calculate the commission for the other sales reps.
 
----
+## Sample Output
 
-## Expected Learning Outcome
-
-* ✅ Understand how **relative references** adjust when formulas are copied to other cells.
-* ✅ Learn that **absolute references** (using the `$` symbol) keep a reference fixed no matter where the formula is moved or copied.
+| Rep Name | Total Sales | Commission Rate | Commission Earned |
+| -------- | ----------- | --------------- | ----------------- |
+| Alice    | 5000        | 10%             | 500               |
+| Bob      | 3000        |                 | 300               |
+| Clara    | 7000        |                 | 700               |
+| Dan      | 4000        |                 | 400               |
 
 ---
 
