@@ -1,10 +1,10 @@
-# 📊 Excel Task: Using Home Tab and Basic Formulas
+#  Excel Task: Using Home Tab and Basic Formulas
 
 This guide will help you create an Excel spreadsheet to manage item purchases using basic formulas and Home tab features such as formatting and conditional logic.
 
 ---
 
-## 🛠️ 1. Set Up the Basic Structure
+##  1. Set Up the Basic Structure
 
 In **row 1**, use these headers:
 
@@ -19,7 +19,7 @@ In **row 1**, use these headers:
 
 ---
 
-## 🧾 2. Enter Sample Data
+##  2. Enter Sample Data
 
 In rows **2 and below**, add item data:
 
@@ -31,7 +31,7 @@ In rows **2 and below**, add item data:
 
 ---
 
-## ➗ 3. Apply Formula for Total Cost
+##  3. Apply Formula for Total Cost
 
 In **D2**, enter:
 
@@ -40,7 +40,7 @@ In **D2**, enter:
 ```
 Then copy it down for other rows.
 
-## 🔄 4. Add Conditional Logic for Discount
+##  4. Add Conditional Logic for Discount
 In E2, enter:
 
 ```excel
@@ -49,7 +49,7 @@ In E2, enter:
 ```
 This will apply a discount conditionally based on the total cost.
 
-## 💰 5. Calculate Discounted Total
+##  5. Calculate Discounted Total
 In F2, enter:
 
 ```excel
@@ -58,7 +58,7 @@ In F2, enter:
 ```
 This gives a 10% discount if applicable.
 
-## 🎨 6. Apply Conditional Formatting
+##  6. Apply Conditional Formatting
 ✅ Highlight Total Cost > $100
 Select column D from D2 down.
 
@@ -68,7 +68,7 @@ Select column D from D2 down.
 
 - Choose a fill color (e.g., green).
 
-## 🟡 Highlight Discounted Items
+##  Highlight Discounted Items
 Select column F from F2 down.
 
 - Home tab > Conditional Formatting > New Rule.
@@ -77,7 +77,7 @@ Select column F from F2 down.
 
 - Choose a fill color (e.g., yellow).
 
-## 🧾 7. Final Sheet Preview
+##  7. Final Sheet Preview
 
 
 | Item     | Quantity | Price per Item | Total Cost    | Discount Applied | Discounted Total |
@@ -90,5 +90,5 @@ Select column F from F2 down.
 
 
 
-## 💾 8. Save Your Work
+##  8. Save Your Work
 Be sure to save your workbook when finished!
