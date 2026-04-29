@@ -1,12 +1,12 @@
 # Excel Task: Absolute Reference Formula Practice
 
-## 🎯 Objective
+##  Objective
 
 Learn how to use **Absolute Reference (`$`)** in Excel formulas to calculate discounted prices and tax amounts correctly.
 
 ---
 
-# 📋 Task: Product Billing Sheet
+#  Task: Product Billing Sheet
 
 Create the following table in Excel:
 
@@ -21,7 +21,7 @@ Create the following table in Excel:
 
 ---
 
-## 📌 Additional Information
+##  Additional Information
 
 Below the table enter:
 
@@ -32,7 +32,7 @@ Below the table enter:
 
 ---
 
-# ✅ Tasks to Perform
+# Tasks to Perform
 
 ### 1. Calculate Total Price
 
@@ -72,7 +72,7 @@ Drag the formula down.
 
 ---
 
-# 🎯 Expected Output Sample
+#  Expected Output Sample
 
 | Product Name | Total Price | Final Amount |
 | ------------ | ----------- | ------------ |
@@ -82,7 +82,7 @@ Drag the formula down.
 
 ---
 
-# 💡 Learning Outcome
+#  Learning Outcome
 
 After completing this task, students will learn:
 
