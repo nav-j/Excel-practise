@@ -2,9 +2,9 @@
 
 ---
 
-# 🟢 Task 1: Student Bonus Marks
+#  Task 1: Student Bonus Marks
 
-## 📋 Create Table
+##  Create Table
 
 | A            | B     | C           |
 | ------------ | ----- | ----------- |
@@ -22,7 +22,7 @@
 
 ---
 
-## ✅ Task
+##  Task
 
 Add bonus marks to each student using **absolute reference**.
 
@@ -36,9 +36,9 @@ Drag the formula down.
 
 ---
 
-# 🟢 Task 2: Product Price with Tax
+# Task 2: Product Price with Tax
 
-## 📋 Create Table
+##  Create Table
 
 | A        | B     | C              |
 | -------- | ----- | -------------- |
@@ -56,7 +56,7 @@ Drag the formula down.
 
 ---
 
-## ✅ Task
+##  Task
 
 Calculate final price after adding tax using absolute reference.
 
@@ -70,9 +70,9 @@ Drag down the formula.
 
 ---
 
-# 🟢 Task 3: Salary Increment
+#  Task 3: Salary Increment
 
-## 📋 Create Table
+##  Create Table
 
 | A        | B      | C          |
 | -------- | ------ | ---------- |
@@ -90,7 +90,7 @@ Drag down the formula.
 
 ---
 
-## ✅ Task
+##  Task
 
 Increase salary using absolute reference.
 
@@ -104,9 +104,9 @@ Drag the formula down.
 
 ---
 
-# 🟢 Task 4: Shop Discount Calculation
+#  Task 4: Shop Discount Calculation
 
-## 📋 Create Table
+##  Create Table
 
 | A     | B      | C            |
 | ----- | ------ | ------------ |
@@ -124,7 +124,7 @@ Drag the formula down.
 
 ---
 
-## ✅ Task
+##  Task
 
 Calculate amount after discount.
 
@@ -138,7 +138,7 @@ Drag down the formula.
 
 ---
 
-# 🎯 What Students Will Learn
+#  What Students Will Learn
 
 * Using `$` for absolute reference
 * Formula dragging
