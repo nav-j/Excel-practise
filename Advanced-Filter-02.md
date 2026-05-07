@@ -82,7 +82,9 @@ Filter employees whose:
 * Name starts with **"R"**
 * Salary is **above average salary**
 
----
+```
+=">"&AVERAGE(D2:D9)
+```
 
 ### 🧩 Criteria Setup:
 
