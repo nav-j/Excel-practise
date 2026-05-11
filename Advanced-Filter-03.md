@@ -130,3 +130,94 @@ If you want next level, I can create:
 * 🔹 **LinkedIn carousel post for this task series**
 
 Just tell me 👍
+
+# 📊 Sample Output Tables — Advanced Filter Tasks in Microsoft Excel
+
+---
+
+# ✅ Task A — Duplicate Orders Output
+
+### 🎯 Condition
+
+Same **Customer + Product + Amount** appears more than once.
+
+### ✅ Sample Output
+
+| Order ID | Customer | City   | Product | Amount | Status    |
+| -------- | -------- | ------ | ------- | ------ | --------- |
+| 101      | Aman     | Delhi  | Laptop  | 55000  | Delivered |
+| 105      | Aman     | Delhi  | Laptop  | 55000  | Delivered |
+| 102      | Neha     | Mumbai | Mobile  | 20000  | Pending   |
+| 108      | Neha     | Mumbai | Mobile  | 20000  | Pending   |
+
+---
+
+# ✅ Task B — High-Value Delivered Orders Output
+
+### 🎯 Condition
+
+* City = Delhi
+* Status = Delivered
+* Amount > 50000
+
+### ✅ Sample Output
+
+| Order ID | Customer | City  | Product | Amount | Status    |
+| -------- | -------- | ----- | ------- | ------ | --------- |
+| 101      | Aman     | Delhi | Laptop  | 55000  | Delivered |
+|          |          |       |         |        |           |
+
+Only one record satisfies all conditions.
+
+---
+
+# ✅ Task C — Mixed OR + AND Logic Output
+
+### 🎯 Condition
+
+* Mumbai orders with Amount > 20000
+  **OR**
+* Product = Laptop AND Status ≠ Cancelled
+
+### ✅ Sample Output
+
+| Order ID | Customer | City   | Product | Amount | Status    |
+| -------- | -------- | ------ | ------- | ------ | --------- |
+| 101      | Aman     | Delhi  | Laptop  | 55000  | Delivered |
+| 105      | Aman     | Delhi  | Laptop  | 55000  | Delivered |
+| 106      | Karan    | Mumbai | Mobile  | 22000  | Delivered |
+| 107      | Ravi     | Delhi  | Laptop  | 70000  | Pending   |
+
+---
+
+# ✅ Bonus Challenge Output
+
+### 🎯 Condition
+
+* Amount > Average Amount
+* Status ≠ Pending
+
+### 🧠 Average Amount Calculation
+
+Average = **44,000**
+
+### ✅ Sample Output
+
+| Order ID | Customer | City    | Product | Amount | Status    |
+| -------- | -------- | ------- | ------- | ------ | --------- |
+| 101      | Aman     | Delhi   | Laptop  | 55000  | Delivered |
+| 104      | Simran   | Chennai | Laptop  | 65000  | Cancelled |
+| 105      | Aman     | Delhi   | Laptop  | 55000  | Delivered |
+
+---
+
+# 💡 Practice Extension
+
+Try changing:
+
+* `>50000` to `>=50000`
+* `<>Cancelled` to `<>Pending`
+* Add one more duplicate record and test again
+
+This helps understand how Advanced Filter reacts to changing criteria.
+
