@@ -189,3 +189,204 @@ After completing this task, students will learn:
 | Arjun         | Electronics | East   | 76000         | Not Achieved |
 | Riya          | Clothing    | South  | 72000         | Achieved     |
 | Raj           | Clothing    | North  | 54000         | Not Achieved |
+
+
+## Solution
+
+# Solution – Excel Task Using Custom Sort & Scenario Manager
+
+# Step 1: Final Data Table with Formulas
+
+| Employee ID | Employee Name | Department  | Region | Monthly Sales | Target Sales | Bonus % | Status       | Bonus Amount |
+| ----------- | ------------- | ----------- | ------ | ------------- | ------------ | ------- | ------------ | ------------ |
+| E101        | Aman          | Electronics | North  | 85000         | 90000        | 5%      | Not Achieved | 4250         |
+| E102        | Riya          | Clothing    | South  | 72000         | 70000        | 4%      | Achieved     | 2880         |
+| E103        | Kabir         | Grocery     | East   | 65000         | 75000        | 3%      | Not Achieved | 1950         |
+| E104        | Simran        | Electronics | West   | 98000         | 95000        | 6%      | Achieved     | 5880         |
+| E105        | Raj           | Clothing    | North  | 54000         | 60000        | 2%      | Not Achieved | 1080         |
+| E106        | Neha          | Grocery     | South  | 89000         | 85000        | 5%      | Achieved     | 4450         |
+| E107        | Arjun         | Electronics | East   | 76000         | 80000        | 4%      | Not Achieved | 3040         |
+| E108        | Priya         | Clothing    | West   | 69000         | 70000        | 3%      | Not Achieved | 2070         |
+
+---
+
+# Formulas Used
+
+## Status Formula
+
+In cell H2:
+
+```excel id="4oc80t"
+=IF(E2>=F2,"Achieved","Not Achieved")
+```
+
+Copy down for all rows.
+
+---
+
+## Bonus Amount Formula
+
+In cell I2:
+
+```excel id="qv5u2x"
+=E2*G2
+```
+
+Copy down for all rows.
+
+---
+
+# Step 2: Custom Sort Solution
+
+Go to:
+
+```text id="n8x5bh"
+Data → Sort
+```
+
+Apply these levels:
+
+| Sort Level | Column        | Order                          |
+| ---------- | ------------- | ------------------------------ |
+| Level 1    | Department    | Electronics, Clothing, Grocery |
+| Level 2    | Region        | North, South, East, West       |
+| Level 3    | Monthly Sales | Largest to Smallest            |
+
+---
+
+# Sample Output After Custom Sort
+
+| Employee Name | Department  | Region | Monthly Sales |
+| ------------- | ----------- | ------ | ------------- |
+| Aman          | Electronics | North  | 85000         |
+| Arjun         | Electronics | East   | 76000         |
+| Simran        | Electronics | West   | 98000         |
+| Raj           | Clothing    | North  | 54000         |
+| Riya          | Clothing    | South  | 72000         |
+| Priya         | Clothing    | West   | 69000         |
+| Neha          | Grocery     | South  | 89000         |
+| Kabir         | Grocery     | East   | 65000         |
+
+---
+
+# Step 3: Scenario Manager Solution
+
+Go to:
+
+```text id="8mh2ng"
+Data → What-If Analysis → Scenario Manager
+```
+
+---
+
+# Scenario 1 – Normal Target
+
+(Original values)
+
+| Employee | Target Sales |
+| -------- | ------------ |
+| Aman     | 90000        |
+| Riya     | 70000        |
+| Kabir    | 75000        |
+| Simran   | 95000        |
+
+---
+
+# Scenario 2 – Increased Target (+10%)
+
+## Updated Target Values
+
+| Employee | Old Target | New Target |
+| -------- | ---------- | ---------- |
+| Aman     | 90000      | 99000      |
+| Riya     | 70000      | 77000      |
+| Kabir    | 75000      | 82500      |
+| Simran   | 95000      | 104500     |
+
+### Sample Output
+
+| Employee | Monthly Sales | New Target | Status       |
+| -------- | ------------- | ---------- | ------------ |
+| Aman     | 85000         | 99000      | Not Achieved |
+| Riya     | 72000         | 77000      | Not Achieved |
+| Simran   | 98000         | 104500     | Not Achieved |
+
+---
+
+# Scenario 3 – Reduced Target (-15%)
+
+## Updated Target Values
+
+| Employee | Old Target | New Target |
+| -------- | ---------- | ---------- |
+| Aman     | 90000      | 76500      |
+| Riya     | 70000      | 59500      |
+| Kabir    | 75000      | 63750      |
+| Simran   | 95000      | 80750      |
+
+---
+
+# Sample Output
+
+| Employee | Monthly Sales | Reduced Target | Status   |
+| -------- | ------------- | -------------- | -------- |
+| Aman     | 85000         | 76500          | Achieved |
+| Riya     | 72000         | 59500          | Achieved |
+| Simran   | 98000         | 80750          | Achieved |
+
+---
+
+# Scenario Summary Example
+
+| Employee | Monthly Sales | Normal Target | Increased Target | Reduced Target |
+| -------- | ------------- | ------------- | ---------------- | -------------- |
+| Aman     | 85000         | Not Achieved  | Not Achieved     | Achieved       |
+| Riya     | 72000         | Achieved      | Not Achieved     | Achieved       |
+| Kabir    | 65000         | Not Achieved  | Not Achieved     | Achieved       |
+| Simran   | 98000         | Achieved      | Not Achieved     | Achieved       |
+
+---
+
+# Formatting Solution
+
+## Apply These Features
+
+### Home Tab
+
+* Bold headers
+* Center alignment
+* Currency format for sales columns
+* Borders and table colors
+
+### Conditional Formatting
+
+* Green fill → “Achieved”
+* Red fill → “Not Achieved”
+
+### Insert Tab
+
+* Insert column chart for Monthly Sales
+
+### Page Layout
+
+* Landscape Orientation
+* Add page title:
+
+```text id="nhcqcu"
+Sales Performance Dashboard
+```
+
+---
+
+# Final Learning Outcomes
+
+Students will learn:
+
+* Multi-level custom sorting
+* Creating custom sort lists
+* Scenario Manager usage
+* What-if analysis
+* Formula-based reporting
+* Business performance analysis
+* Professional dashboard formatting
+
