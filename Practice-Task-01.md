@@ -1,6 +1,6 @@
-# 📊 Complete MS Excel Practical Task
+## Complete MS Excel Practical Task
 
-## 🎯 Scenario
+##  Scenario
 
 You are working as an Office Assistant in a training institute. Create a student fee management sheet in MS Excel and perform various calculations, formatting, sorting, filtering, and chart creation tasks.
 
@@ -252,21 +252,3 @@ Create a Dashboard Sheet containing:
 * Average Attendance
 * Pie Chart (Course Distribution)
 * Column Chart (Attendance Analysis)
-
-This task covers:
-
-* Data Entry
-* Formulas
-* Functions
-* IF Statements
-* COUNTIF
-* SUMIF
-* Formatting
-* Conditional Formatting
-* Sorting
-* Filtering
-* Data Validation
-* Charts
-* Dashboard Creation
-
-It is suitable for a **full 3–4 hour MS Excel practical assignment** for students.
