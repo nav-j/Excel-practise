@@ -54,7 +54,9 @@ Add formulas for each student:
 
   o	>=90, "Excellent", >=75, "Good",>=50, "Average", o	If less than 50  "Needs Improvement"
 
-
+```
+=IFS(H2>=90,"Excellent",H2>=75,"Good",H2>=50,"Average",H2<50,"Needs Improvement")
+```
 ---
 
 ##  Step 4: Conditional Formatting
